@@ -2,7 +2,7 @@
 ---
 title: "Oggetto/Soggetto/19"
 date: 2019-03-23T23:02:17+01:00
-draft: true
+draft: false
 image: images/head.jpg
 ---
 
