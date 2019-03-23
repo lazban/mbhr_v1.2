@@ -1,0 +1,50 @@
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "it"
+#disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Made By Human Race"
+  subtitle    = ""
+
+  cover       = "/images/head_v2.jpg"
+  description = ""
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "madebyhumanrace"
+  fbName = ""
+  githubName = ""
+
+  logo = ""
+  orgName = "MBHR"
+  orgWebsite = ""
+  orgDescription = ""
+
+  author = "MBHR"
+  authorAvatar = "images/avatar_220.png"
+  authorLocation = "planer, Earth"
+  authorWebsite = ""
+  authorDescription = ""
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Casa"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Oggetto/Soggetto/19"
+  url = "/categories/Oggetto_Soggetto_19/"
+  weight = 100
