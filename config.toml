@@ -36,6 +36,9 @@ languageCode    = "it"
   #casper or caspertwo
   singleViewStyle = "casper"
 
+  talkyardServerUrl = "https://comments-demo.talkyard.io"
+
+
 [permalinks]
   post = "/:slug/"
 
