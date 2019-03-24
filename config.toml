@@ -12,7 +12,7 @@ languageCode    = "it"
   cover       = "/images/head_v2.jpg"
   description = ""
   metaDescription = ""
-  googleAnalytics = ""
+  googleAnalytics = "UA-41139230-12"
   customCSS = []
   RSSLink = ""
 
