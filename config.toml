@@ -36,7 +36,7 @@ languageCode    = "it"
   #casper or caspertwo
   singleViewStyle = "casper"
 
-  talkyardServerUrl = "https://comments-demo.talkyard.io"
+  talkyardServerUrl = "https://comments-for-madebyhumanrace-org.talkyard.net"
 
 
 [permalinks]
