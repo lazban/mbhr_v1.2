@@ -5,7 +5,7 @@ draft: false
 type: "page"
 ---
 
-{{< figure src="/images/avatar_220.png" title="" >}}
+{{< figure src="/images/generic/avatar_220.png" title="" >}}
 
 Made By Human Race è qualcosa ma ancora non sapremmo definire cosa.
 
