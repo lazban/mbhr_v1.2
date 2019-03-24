@@ -26,7 +26,7 @@ languageCode    = "it"
   orgDescription = ""
 
   author = "MBHR"
-  authorAvatar = "images/avatar_220.png"
+  authorAvatar = "images/generic/avatar_220.png"
   authorLocation = "planer, Earth"
   authorWebsite = ""
   authorDescription = ""
