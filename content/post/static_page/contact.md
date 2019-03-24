@@ -1,8 +1,9 @@
 ---
 title: Contact
 date: 2018-01-01T00:00:01+01:00
-image: "images/notebook.jpg"
+image: ""
 description: Lascia un messaggio
+type: "page"
 ---
 
 
