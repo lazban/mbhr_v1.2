@@ -1,10 +1,11 @@
 ---
-date: 2019-03-21T11:25:05-04:00
 title: "Filmografia"
-description: ""
-image: "/images/head.jpg"
-tags: []
+#description: ""
+date: 2019-03-23T23:02:17+01:00
+draft: false
+image: /images/head.jpg
 categories: ["Oggetto_Soggetto_19"]
+#tags: []
 ---
 
 ### Oggetto/Soggetto/19
@@ -63,7 +64,7 @@ con Barbara Stanwyck, Fred MacMurray, Edward G. Robinson
 scritto da Billy Wilder, Raymond Chandler da un romanzo di James M. Cain
 Prodotto da Paramount Pictures
 
-**Amore sublime **(_Stella Dallas_; Usa, 1937)  
+**Amore sublime**(_Stella Dallas_; Usa, 1937)  
 di King Vidor  
 con Barbara Stanwyck
 Scritto da Sarah Y. Mason e Victor Heerman da un romanzo di Olive Higgins Prouty
@@ -76,6 +77,8 @@ Scritto da Leni Riefenstahl e Walter Ruttmann
 **What happened in the tunnel** (Usa, 1903)  
 di Thomas A. Edison, Edwin S. Porter
 
-**What happened on Twenty-third Street, New York City **(Usa, 1901)
+**What happened on Twenty-third Street, New York City** (Usa, 1901)
 Di George S. Fleming, Edwin S. Porter  
 con A.C. Abadie, Florence Georgie
+
+_foto di copertina di Toni Frissell (1935)_

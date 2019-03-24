@@ -1,8 +1,8 @@
 baseurl         = "/"
 theme           = "casper-two"
 languageCode    = "it"
-disqusShortname = "made-by-human-race"
-paginate        = 6
+#disqusShortname = "made-by-human-race"
+#paginate        = 6
 #SectionPagesMenu = "main"
 
 [params]
