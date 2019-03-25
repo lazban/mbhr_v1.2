@@ -4,8 +4,9 @@ title: "Filmografia"
 date: 2019-03-23T23:02:17+01:00
 draft: false
 image: /images/oggsogg19/frissell.jpg
-categories: ["Oggetto_Soggetto_19"]
-#tags: []
+categories: [""]
+series: ["Oggetto_Soggetto_19"]
+series_weight: 15
 ---
 
 ### Oggetto/Soggetto/19

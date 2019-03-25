@@ -49,5 +49,10 @@ languageCode    = "it"
 
 [[menu.main]]
   name = "Oggetto/Soggetto/19"
-  url = "/categories/Oggetto_Soggetto_19/"
+  url = "/series/Oggetto_Soggetto_19/"
   weight = 100
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  serie = "series"
