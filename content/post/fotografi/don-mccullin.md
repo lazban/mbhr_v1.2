@@ -1,7 +1,7 @@
 ---
 title: "Don McCullin / Tate Britain 2019"
-#description: ""
-date: 2019-03-23T23:02:17+01:00
+description: "Don McCullin retrospective at Tate Britain in London"
+date: 2019-03-31T23:50:17+01:00
 draft: false
 image: /images/fotografi/don-mccullin/mccullin-cover.jpg
 categories: ["fotografi"]
