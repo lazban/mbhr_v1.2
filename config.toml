@@ -52,6 +52,11 @@ languageCode    = "it"
   url = "/series/Oggetto_Soggetto_19/"
   weight = 100
 
+[[menu.main]]
+  name = "Fotografi"
+  url = "/categories/fotografi/"
+  weight = 100
+
 [taxonomies]
   tag = "tags"
   category = "categories"
