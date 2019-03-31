@@ -105,3 +105,9 @@ Il senso dell’arte di Don McCullin appare paradossalmente nell’unica sua fot
 
 {{< figure src="/images/fotografi/don-mccullin/belongings.jpg" title="" >}}
 _a dead North Vietnamese soldier and his plundered belongings, Set Offensive, Hué, South Vietnam, 1968 / Don McCullin_
+
+
+//
+Don McCullin - Tate Britain - London - 2019
+per le foto, copyright Don McCullin.
+fair use
