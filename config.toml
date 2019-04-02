@@ -2,7 +2,7 @@ baseurl         = "/"
 theme           = "casper-two"
 languageCode    = "it"
 #disqusShortname = "made-by-human-race"
-#paginate        = 6
+paginate        = 6
 #SectionPagesMenu = "main"
 
 [params]
@@ -56,6 +56,11 @@ languageCode    = "it"
   name = "Fotografi"
   url = "/categories/fotografi/"
   weight = 100
+
+  [[menu.main]]
+    name = "Diario"
+    url = "/categories/diario/"
+    weight = 50
 
 [taxonomies]
   tag = "tags"
