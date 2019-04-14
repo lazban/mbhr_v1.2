@@ -1,5 +1,5 @@
 ---
-title: "Don McCullin / Tate Britain 2019"
+title: "Don McCullin - Tate Britain 2019"
 description: "Don McCullin retrospective at Tate Britain in London"
 date: 2019-03-31T23:50:17+01:00
 draft: false

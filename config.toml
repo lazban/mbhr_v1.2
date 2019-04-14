@@ -65,4 +65,4 @@ paginate        = 6
 [taxonomies]
   tag = "tags"
   category = "categories"
-  serie = "series"
+  series = "series"

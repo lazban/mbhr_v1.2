@@ -1,12 +1,11 @@
 ---
-title: "bibliografia"
-#description: ""
-date: 2019-03-24T23:02:17+01:00
+title: "/bibliografia"
+description: "i testi di riferimento per Oggetto/Soggetto/19"
+date: 2019-03-01T22:02:17+01:00
 draft: false
 image: /images/oggsogg19/frissell.jpg
 categories: [""]
 series: ["Oggetto_Soggetto_19"]
-series_weight: 11
 ---
 
 ### Oggetto/Soggetto/19

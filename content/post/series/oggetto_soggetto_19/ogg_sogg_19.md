@@ -1,11 +1,13 @@
 ---
 title: "Oggetto_Soggetto_19"
+description: "che cosa è Oggetto/Soggetto/19?"
 date: 2019-03-23T23:02:17+01:00
 draft: false
 image: /images/oggsogg19/frissell.jpg
 categories: [""]
+tags: ["cinema"]
 series: ["Oggetto_Soggetto_19"]
-series_weight: 99
+author: "alessandro"
 ---
 
 In questo minisito facciamo un viaggio nella rappresentazione della figura femminile nel cinema, attraverso l'analisi di una serie di spezzoni di film lungo tutta la storia del cinema, dalle origini ai giorni nostri.
