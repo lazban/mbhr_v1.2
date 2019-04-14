@@ -65,5 +65,9 @@ Parte un interessante percorso della fotografa che recupera alcune gigantografie
 
 {{< figure src="/images/fotografi/letizia-battaglia/battaglia11 gangster2.jpg" title="" >}}
 
-_le foto riportate in questo articolo sono protette da copyright. Fair use.
+_le foto riportate in questo articolo sono protette da copyright.
 La mostra a cui ci riferiamo è "Letizia Battaglia. Fotografia come scelta di vita" a Venezia, Casa dei Tre Oci, 20.03-18.08.2019_
+
+<a href="/fairuse">
+Please check home rules about Fair Use
+</a>

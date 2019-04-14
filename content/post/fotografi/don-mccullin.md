@@ -111,4 +111,6 @@ _a dead North Vietnamese soldier and his plundered belongings, Set Offensive, Hu
 _Don McCullin - Tate Britain - London - 2019.
 Per le foto, copyright Don McCullin._
 
-Please check home rules about [fair use] (/fair_use)
+<a href="/fairuse">
+Please check home rules about Fair Use
+</a>
