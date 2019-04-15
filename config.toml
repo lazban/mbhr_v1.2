@@ -2,7 +2,7 @@ baseurl         = "/"
 theme           = "casper-two"
 languageCode    = "it"
 #disqusShortname = "made-by-human-race"
-paginate        = 6
+paginate        = 10
 #SectionPagesMenu = "main"
 
 [params]
