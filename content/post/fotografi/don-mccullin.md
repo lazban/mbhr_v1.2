@@ -76,7 +76,7 @@ Il gioco _*foreground/background*_ appare anche in foto meno tragiche. Qui due b
 {{< figure src="/images/fotografi/don-mccullin/fighting.jpg" title="" >}}
 _Boys boxing, Caledonian Road, Islington, London, 1960s / Don McCullin_
 
-Il gioco fra piani torna anche nelle fotografie da zone ad alta tensione, esaltata ancor di più dal dettaglio e dalle figure in secondo piano fuori fuoco.
+Il gioco fra piani torna anche nelle fotografie da zone ad alta tensione, esaltato ancor di più dal dettaglio e dalle figure in secondo piano fuori fuoco.
 
 {{< figure src="/images/fotografi/don-mccullin/checkpoint.jpg" title="" >}}
 _American soldiers, Checkpoint Charlie, Berlin, 1961 / Don McCullin_
