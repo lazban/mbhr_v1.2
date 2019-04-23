@@ -4,8 +4,6 @@ description: "che cosa è Oggetto/Soggetto/19?"
 date: 2019-03-23T23:02:17+01:00
 draft: false
 image: /images/oggsogg19/frissell.jpg
-categories: [""]
-tags: ["cinema"]
 series: ["Oggetto_Soggetto_19"]
 author: "alessandro"
 ---
