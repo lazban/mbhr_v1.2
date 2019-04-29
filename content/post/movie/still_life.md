@@ -5,6 +5,7 @@ date: 2013-09-04T23:02:17+01:00
 draft: false
 image: /images/film/still-life.jpg
 tags: ["film"]
+author: alessandro
 ---
 
 John May lavora. Lavora con passione e con scrupolo, ritenendo la sua attività una missione sociale.
@@ -27,6 +28,8 @@ La faccia piena d’espressività del compassato John May è l’architrave del 
 _Still life_ merita di essere visto pronti a commuoversi sul senso vero del film che tenta di parlare del senso della vita. La messa in scena, le inquadrature e la grande prova di Eddie Marsan ci mostrano la potenza del cinema
 
 - - -
-**Still Life**  scritto e diretto da Uberto Pasolini (Gran Bretagna, 2013) con Eddie Marsan, Joanne Froggatt direttore della fotografia, Stefano Falivene
+**Still Life**  scritto e diretto da Uberto Pasolini (Gran Bretagna, 2013)  con Eddie Marsan, Joanne Froggatt;
+ direttore della fotografia, Stefano Falivene.
+
 Il film è distribuito in Italia dalla BIM (nelle sale dal 12 dicembre 2013)
-Uberto Pasolini è principalmente un produttore. Ha raggiunto il successo con _Full Monty_ e _Palookaville_. Ha scritto e diretto nel 2008, _Machan – La vera storia di una falsa squadra_.
+Uberto Pasolini è principalmente un produttore. Ha raggiunto il successo con _Full monty_ e _Palookaville_. Ha scritto e diretto nel 2008, _Machan – La vera storia di una falsa squadra_.
