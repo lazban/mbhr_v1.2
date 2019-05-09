@@ -9,7 +9,6 @@ tags: ["adv"]
 Save the Children e i bambini che muoiono di fame in tv.
 
 Già anni fa erano montate molte polemiche per lo spot di Save the Children sul bambino Jon e anche questo Natale (dicembre 2015) su tutte le televisioni è andata in onda la storia di Kayembe
-
 {{< yt SBeo4gKzhKc >}}
 
 I due spot hanno un “linguaggio” forte che ha generato molte critiche. Save the Children difende la propria scelta, che ormai va avanti da diversi anni.
@@ -76,6 +75,7 @@ Ed è un peccato. Pochi anni fa, “Una mano per i bambini” uscì con uno spot
 _Questo post arriva dalla migrazione di un articolo su un precedente blog, pubblicato il 31 gennaio 2016. Alcuni commenti di utenti sparsi erano stati fatti. Alcuni sono stati cancellati, perché offensivi e senza contenuti. Altri, anche in disaccordo con quanto scritto nel post, li riportiamo di seguito._
 
 Anonimo Dicembre 13, 2016 at 6:44 am
+
 > … Ma tu hai verificato personalmente ? In tutto quello che scrivi c’è una denuncia più falsa degli spot che dichiari falsi. Su cosa è fondata la tua denuncia ? Su cosa ?! Scrivi che i soldi non arriveranno mai ai veri destinatari ( i bambini ), ma se lo affermi dovresti avere anche il coraggio di dichiarare dove vanno a finire giacche’ ne sei così sicuro, e invece ? NIENTE. Solo una critica spietata costruita su una tua supposizione. Non dai alcuna prova concreta di ciò che affermi e questo è già sufficientemente indicativo. Saluti.
 
 alessandro Dicembre 17, 2016 at 8:42 pm

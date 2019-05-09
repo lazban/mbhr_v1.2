@@ -59,7 +59,7 @@ paginate        = 6
 
   [[menu.main]]
     name = "Diario"
-    url = "/categories/diario/"
+    url = "/tags/diario/"
     weight = 50
 
 [taxonomies]
