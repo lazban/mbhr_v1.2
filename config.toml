@@ -40,7 +40,7 @@ paginate        = 6
 
 
 [permalinks]
-  post = "/:slug/"
+  post = "/:year/:month/:slug/"
 
 [[menu.main]]
   name = "Casa"

@@ -1,5 +1,6 @@
 ---
 title: "Oggetto_Soggetto_19"
+slug: "os-intro"
 description: "che cosa è Oggetto/Soggetto/19?"
 date: 2019-03-23T23:02:17+01:00
 draft: false

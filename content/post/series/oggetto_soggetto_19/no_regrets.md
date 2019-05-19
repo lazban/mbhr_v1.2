@@ -1,5 +1,6 @@
 ---
 title: "Non rimpiango la mia giovinezza"
+slug: "os-noregrets"
 description: "opera meno conosciuta di Kurosawa ma con molti motivi di interesse"
 date: 2019-03-23T23:02:17+01:00
 draft: false

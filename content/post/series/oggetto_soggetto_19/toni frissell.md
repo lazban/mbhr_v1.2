@@ -1,5 +1,6 @@
 ---
 title: "Toni Frissell"
+slug: "os-frissell"
 description: "La grande fotografa americana nell'introduzione a Oggetto/Soggetto/19"
 date: 2019-03-23T22:02:17+01:00
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "bibliografia"
+slug: "os-bibliografia"
 description: "i testi di riferimento per Oggetto/Soggetto/19"
 date: 2019-03-01T22:02:17+01:00
 draft: false

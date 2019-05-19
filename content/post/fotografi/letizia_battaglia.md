@@ -1,5 +1,6 @@
 ---
 title: "Letizia Battaglia - Tre Oci Venezia 2019"
+slug: "battaglia"
 description: "fotocronaca da Palermo"
 date: 2019-04-14T18:43:17+02:00
 draft: false
