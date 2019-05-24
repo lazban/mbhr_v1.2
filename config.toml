@@ -49,7 +49,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "Oggetto/Soggetto/19"
-  url = "/series/Oggetto_Soggetto_19/"
+  url = "/series/Oggetto Soggetto 19/"
   weight = 300
 
 [[menu.main]]

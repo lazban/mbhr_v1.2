@@ -5,7 +5,7 @@ description: "i film mostrati in Oggetto/Soggetto/19"
 date: 2019-03-01T23:02:17+01:00
 draft: false
 image: /images/generic/filmografia.png
-series: ["Oggetto_Soggetto_19"]
+series: ["Oggetto Soggetto 19"]
 ---
 
 ### Oggetto/Soggetto/19

@@ -3,7 +3,7 @@ title: "Gillette, il meglio di un uomo"
 description: "il nuovo spot Gillette fa discutere"
 date: 2019-04-23T17:23:57+02:00
 draft: false
-image: /images/blogimg/gillette_cover.png
+image: /images/blogimg/gillette_cover2.png
 tags: ["adv"]
 ---
 

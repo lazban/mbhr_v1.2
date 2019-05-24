@@ -6,7 +6,7 @@ date: 2019-03-23T23:02:17+01:00
 draft: false
 image: /images/film/noregrets.jpg
 tags: ["film"]
-series: ["Oggetto_Soggetto_19"]
+series: ["Oggetto Soggetto 19"]
 series_weight: 99
 author: alessandro
 ---

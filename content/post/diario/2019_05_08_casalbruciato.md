@@ -1,5 +1,5 @@
 ---
-title: "Casal Bruciato 2019, maggio 8"
+title: "Casal Bruciato, maggio 8, 2019"
 slug: "casalbruciato"
 description: "gli abitanti del quartiere non vogliono una madre rom e sua figlia"
 date: 2019-05-08T21:22:17+01:00

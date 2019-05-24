@@ -6,7 +6,8 @@ date: 2019-03-23T22:02:17+01:00
 draft: false
 image: /images/oggsogg19/toni frissell head.jpg
 tags: ["toni frissell"]
-series: ["Oggetto_Soggetto_19"]
+categories: ["fotografi"]
+series: ["Oggetto Soggetto 19"]
 author: "alessandro"
 ---
 

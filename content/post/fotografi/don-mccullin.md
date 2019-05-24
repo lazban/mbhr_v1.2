@@ -1,7 +1,7 @@
 ---
-title: "Don McCullin - Tate Britain 2019"
+title: "Don McCullin"
 slug: "donmccullin"
-description: "Don McCullin retrospective at Tate Britain in London"
+description: "Don McCullin retrospective alla Tate Britain in London nel 2019"
 date: 2019-03-31T23:50:17+01:00
 draft: false
 image: /images/fotografi/don-mccullin/mccullin-cover.jpg
