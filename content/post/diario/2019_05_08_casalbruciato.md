@@ -4,7 +4,7 @@ slug: "casalbruciato"
 description: "gli abitanti del quartiere non vogliono una madre rom e sua figlia"
 date: 2019-05-08T21:22:17+01:00
 draft: false
-image: /images/diario/20190508_casalbruciato_cover.jpg
+image: /images/diario/20190508_casalbruciato_cover.png
 tags: ["diario", "intolleranza"]
 ---
 

@@ -9,7 +9,7 @@ paginate        = 6
   title       = "Made By Human Race"
   subtitle    = ""
 
-  cover       = "/images/oggsogg19/head_v3.jpg"
+  cover       = "/images/generic/head_may19.png"
   description = ""
   metaDescription = ""
   googleAnalytics = "UA-41139230-12"
@@ -45,22 +45,22 @@ paginate        = 6
 [[menu.main]]
   name = "Casa"
   url = "/"
-  weight = 200
+  weight = 400
 
 [[menu.main]]
   name = "Oggetto/Soggetto/19"
   url = "/series/Oggetto_Soggetto_19/"
-  weight = 100
+  weight = 300
 
 [[menu.main]]
   name = "Fotografi"
   url = "/categories/fotografi/"
-  weight = 100
+  weight = 300
 
   [[menu.main]]
     name = "Diario"
     url = "/tags/diario/"
-    weight = 50
+    weight = 200
 
 [taxonomies]
   tag = "tags"
