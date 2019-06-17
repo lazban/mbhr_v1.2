@@ -2,8 +2,8 @@
 title: "Il cinema è morto. Tra Shakespeare e Kojima"
 slug: "cinemamorto"
 description: "Perché i videogiochi sono considerati solo una roba per ragazzini perditempo?"
-date: 2019-06-06T21:22:17+01:00
-draft: true
+date: 2019-06-16T21:22:17+01:00
+draft: false
 image: /images/blogimg/cinemamorto_cover.png
 tags: ["videogames", "cinema", "serietv"]
 ---
