@@ -5,6 +5,7 @@ description: "Perché i videogiochi sono considerati solo una roba per ragazzini
 date: 2019-06-16T21:22:17+01:00
 draft: false
 image: /images/blogimg/cinemamorto_cover.png
+categories: ["media"]
 tags: ["videogames", "cinema", "serietv"]
 ---
 

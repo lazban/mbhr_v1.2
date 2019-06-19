@@ -4,7 +4,7 @@ description: "Save the Children e i bambini che muoiono di fame in tv"
 date: 2016-01-31T17:23:57+02:00
 draft: false
 image: /images/blogimg/savethechildren_cover.png
-tags: ["adv"]
+categories: ["pubblicità"]
 ---
 Save the Children e i bambini che muoiono di fame in tv.
 
