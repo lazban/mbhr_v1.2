@@ -5,7 +5,7 @@ description: "opera meno conosciuta di Kurosawa ma con molti motivi di interesse
 date: 2019-03-23T23:02:17+01:00
 draft: false
 image: /images/film/noregrets.jpg
-tags: ["film"]
+categories: ["film"]
 series: ["Oggetto Soggetto 19"]
 series_weight: 99
 author: alessandro
