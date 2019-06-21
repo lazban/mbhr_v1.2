@@ -1,5 +1,5 @@
 ---
-title: "Il cinema è morto. Tra Shakespeare e Kojima"
+title: "Tra Shakespeare e Kojima il cinema è morto. Mentre i videogiochi..."
 slug: "cinemamorto"
 description: "Perché i videogiochi sono considerati solo una roba per ragazzini perditempo?"
 date: 2019-06-16T21:22:17+01:00
@@ -11,11 +11,12 @@ tags: ["videogames", "cinema", "serietv"]
 
 Cinema e serie tv, teatro e videogiochi sono tutte forme di entertainment. Perché, tra queste, i videogiochi sono sempre considerati come la meno qualificata?
 
-_(Acc... L'ho presa larga...)_
+In sintesi: il cinema, come il teatro, come i videogiochi... sono mezzi di intrattenimento. Eppure perché il cinema, che ha ormai solo velleità artistica, è considerato un passatempo colto mentre i videogiochi, che invece hanno sempre più arte e autorialità, sono un giochino per ragazzini?
+Ora, per arrivare a questa conclusione, faccio un giro un po' largo :)
 
 ### 29 luglio 2017, Cambridge. È sabato, tardo pomeriggio. Piove.
 
-_Much Ado About Nothing_ avrebbe dovuto svolgersi nel giardino del King’s College. Ma piove. Ma qua se ne fregano se piove e alle 19.00 in punto, come da programma, parte la rappresentazione.
+_Much Ado About Nothing_ avrebbe dovuto svolgersi nel giardino del King’s College. Ma piove. Ma a Cambridge se ne fregano se piove e alle 19.00 in punto, come da programma, parte la rappresentazione.
 
 Gli attori recitano senza un palco, muovendosi fra le piante, liberi per il giardino. E quindi recitano sotto la pioggia. Il pubblico invece è seduto sull'erba, ordinatamente disposto a semicerchio su tre file. Sotto la pioggia anch’esso.
 {{< figure src="/images/blogimg/cinemamorto_01.jpg" >}}
@@ -27,11 +28,12 @@ Sembra che nessuno si sia accorto di quanto forte stia piovendo!
 Ogni tanto qualcuno beve a canna da una bottiglia di vino, qualcun altro stappa una vaschetta contenente polpette. Mentre Claudio si dispera per aver dubitato della purezza di Hero, una tipa qui accanto dà un morso ad un pomodoro. Tutti scoppiano a ridere quando l’attore che interpreta Borachio ruzzola a terra, scivolando sul terreno bagnato…
 
 Io sono qui a inzupparmi come un pulcino perché devo pur dare un senso alle due settimane di studio intensivo di inglese. Ma perché questa sessantina di cambridgiani viene qua a far la doccia invece di starsene a casa?
+La rappresentazione di _Much Ado About Nothing_ non ha punte particolari. Non ci sono interpreti superlativi, non c'è rielaborazione artistica. Però è una bella _esperienza_. Si tratta di uno spettacolo noto, ambientato in un contesto nuovo, estremamente figo da vedere. Soprattutto se sdraiati sull'erba, mentre si mangia polpette e si beve vino. Anche se piove.
 
 
 ### 30 luglio 2017, Cambridge. È domenica, tardo pomeriggio. Non piove.
 
-Ho un appuntamento al cinema con qualche compagno di corso per vedere un film in lingua inglese. Scegliamo una commedia pakistano-americana. In sala, una ventina di cambridgesi arrivano con bottiglie e stuzzichini vari. A film iniziato, entra una coppia che si siede con due calici di vino in mano. Accanto a noi, una donna apre una scatola e inizia a mangiare polpette e a discutere con l'amica di fianco.
+Ho un appuntamento al cinema con qualche compagno di corso di lingua per vedere un film in inglese. Scegliamo una commedia pakistano-americana. In sala, una ventina di cambridgesi arrivano con bottiglie e stuzzichini vari. A film iniziato, entra una coppia che si siede con due calici di vino in mano. Accanto a noi, una donna apre una scatola e inizia a mangiare polpette e a discutere con l'amica di fianco.
 
 In quella sala, pare che il cinema sia solo un'occasione per mangiare polpette in compagnia. Un po' come lo era la rappresentazione teatrale della sera prima.
 Che questo fatto sociale accada in una sala cinematografica è significativo. Non sempre accade. Greenaway la pensa infatti molto diversamente:
@@ -39,6 +41,7 @@ Che questo fatto sociale accada in una sala cinematografica è significativo. No
 > per me il cinema, inteso come luogo, è morto. Mio padre e mio nonno andavano sempre in sala con un gruppo di amici, era un’esperienza collettiva, cosa che oggi esiste sempre meno.
 (Peter Greenaway, 2018, [link](https://news.cinecitta.com/IT/it-it/news/54/75895/peter-greenaway-il-cinema-e-morto.aspx))
 
+Al di là di questo, resta il fatto che il cinema di oggi non cerca più l'arte che deriva dall'uso creativo del linguaggio cinematografico. Si tratta di mera rappresentazione, che possa divertire (o angosciare, o commuovere...) per una serata. Mentre si mangiano polpette...
 
 ### 26 ottobre 2018. E il videogioco non sarà più come prima
 
@@ -53,6 +56,31 @@ La trama scorre come in un film, fra litigi, rapine, ammazzamenti e sessioni di 
 L'interazione è da sempre una differenze rilevante fra un prodotto videoludico e uno cinematografico. L'innovazione di _RDR2_ sta nel raggiungere una qualità cinematografica non soltanto nelle _cut scenes_, ma in tutto il gioco
 {{< yt ldPYfoKxqBU >}}
 
+### 2018. Il cinema è sempre simile a se stesso
+
+Tra sequel, prequel e porting, il cinema non innova più. Ricordo ancora i brividi di quando vidi per la prima volta _Quarto potere_. E ricordo che non riuscivo a star fermo nella poltrona mentre cercavo di capire _Pulp fiction_. Immagino lo stupore dei primi anni del secolo scorso, quando ogni fotogramma era meraviglia. E comprendo anche l'entusiasmo per _Avatar_ dove l'innovazione tecnologica valeva più della trama.
+
+I film più visti del 2018?
+In America i primi 10 film si articolano in questi gruppi:
+
+* le produzioni del _Marvel Cinematic Universe_ o della _DC_ con _Black Panthers_, _Avengers Infinity war_, _Aquaman_, _Deadpool2_, _Ant Man_
+* la prosecuzione di _franchise_ affermati: _Jurassic World_, _Mission Impossible_,
+* sequel di film precedenti: _The Grinch_, _Incredibles 2_
+* biografici: _Bohemian Rhapsody_
+
+E in Italia? Uguale.
+
+_Mary Poppins_ (sequel di un film storico) e _Jumanji_ (idem) entrano nella top 10 ma non cambiano il concetto che si vuol esprimere qui. _Hotel Transilvania 3_ e _Animali Fantastici_ pure. In classifica in Italia c'è anche _50 sfumature di grigio_ :(
+
+E l'anno precedente? Uguale.
+
+- fumetti: _Spiderman Homecoming_, _Thor_, _guardian of the galaxy 2_, _wonder woman_
+- franchise: _Star Wars: the last jedi_, _Despicable me 3_
+- remake di film storici: _Beauty and the beast_
+Una eccezione in top ten è _It_ che però entra lo stesso nel filone dell'intrattenimento puro.
+
+Intendiamoci. L'intrattenimento non è affatto disprezzabile. E' altamente nobile e utile. Il punto è che il cinema ha smesso di innovare, ha smesso di utilizzare il proprio specifico linguaggio come una forma artistica.
+In più, molti autori di opere veramente innovative, forti e di successo (ad es. Tarantino o Shyamalan), negli ultimi anni sono passati a fare il verso a loro stessi.
 
 ### maggio 2019. Un gioco di troni
 
@@ -111,7 +139,7 @@ Perché? Oltre alle battaglie di spade, le nudità, il sesso e gli intrighi, For
   > ... on the other hand, he’s apparently “endowed” with other attributes, both physically and mentally – he’s certainly the quickest-witted, most insightful character on the show.
 
 
-In questa analisi di Forbes non emerge nessun motivo "cinematografico". E infatti, non c'è nessun motivo "cinematografico" per guardare _Game of Thrones_. Lo show è puro e intelligente intrattenimento, con anche validi significati politici e sociali.
+In questa analisi di Forbes non emerge nessun motivo "cinematografico" per spiegare il successo della serie. E infatti, non c'è nessun motivo "cinematografico" per guardare _Game of Thrones_. Lo show è puro e intelligente intrattenimento, con anche validi significati politici e sociali.
 
 Il linguaggio cinematografico non si usa più, nel cinema come nelle serie tv. Ad esempio, il montaggio è usato solo per dare ritmo, non per esprimere significato. E la trama avanza a suon di dialoghi e non per immagini.
 
@@ -126,10 +154,21 @@ In termini di business, l'industry dei videogames ha superato abbondantemente qu
 
 E progressivamente, le capacità tecniche dei video games si sono evolute migliorando la verosimiglianza degli ambienti e delle animazioni (come abbiamo visto sopra a proposito di _RDR2_).
 
-Mr. Hideo Kojima, icona del mondo videoludico, va oltre e introduce la _recitazione_ all'interno dei videogiochi.
+Ma adesso siamo pronti per una nuova evoluzione.
+
+Ad esempio l'uso degli attori.
+Questa non è una vera novità. Van Damme ne ha fatti diversi (_Mortal kombat_) già molti anni fa. Erano motivazioni di marketing. I giochi avrebbero venduto di più con un volto noto (e coerente) a far parte del cast.
+
+Stessa logica per Jean Reno.
+{{< figure src="/images/blogimg/cinemamorto_04.png" >}}
+
+E anche in tempi recenti si sfrutta questo effetto. In _Cyberpunk 2077_, in uscita ad aprile 2020, ci sarà Keanu Reeves. L'attore è stato anche mandato sul palco dell'E3 di Los Angeles a giugno 2019 per presentare il gioco.
+{{< yt iNIHfaGRv3s >}}
+
+Mr. Hideo Kojima, icona del mondo videoludico, va oltre (sembra andare oltre) introducendo la _recitazione_ all'interno della sua ultima creazione _Death Stranding_.
 Ha scritturato attori veri e li muove dentro il suo nuovo gioco dove non ci sono soltanto splendide ambientazioni e animazioni ma dove la recitazione ha un ruolo importante.
 
-Ancora si sa molto poco sull'ultimo lavoro di Kojima _Death Stranding_. Tutto quello che si è visto è il trailer, parecchio cinematografico, uscito il 1 giugno.
+Ancora si sa molto poco sull'ultimo lavoro di Kojima. Tutto quello che si è visto è il trailer, parecchio cinematografico, uscito il 1 giugno.
 {{< yt ADaiUEZQv4c >}}
 
 
