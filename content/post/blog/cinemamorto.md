@@ -168,7 +168,7 @@ E anche in tempi recenti si sfrutta questo effetto. In _Cyberpunk 2077_, in usci
 Mr. Hideo Kojima, icona del mondo videoludico, va oltre (sembra andare oltre) introducendo la _recitazione_ all'interno della sua ultima creazione _Death Stranding_.
 Ha scritturato attori veri e li muove dentro il suo nuovo gioco dove non ci sono soltanto splendide ambientazioni e animazioni ma dove la recitazione ha un ruolo importante.
 
-Ancora si sa molto poco sull'ultimo lavoro di Kojima. Tutto quello che si è visto è il trailer, parecchio cinematografico, uscito il 1 giugno.
+Ancora si sa molto poco sull'ultimo lavoro di Kojima. Tutto quello che si è visto è il trailer, parecchio cinematografico, uscito il 1 giugno (qui isoliamo la parte dove il Mikkelsen computerizzato _recita_)
 {{< yt ADaiUEZQv4c >}}
 
 
