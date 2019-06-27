@@ -25,9 +25,11 @@
 
         {{if .Params.tags }}
             <span class="post-card-tags">Tag list/
-            {{ range $index, $tag := .Params.tags }}{{if lt $index 2}}
-            <a href="{{$.Site.BaseURL}}tags/{{ $tag | urlize }}/">#{{$tag}}</a>&nbsp;</span>
-            {{end}}{{end}}{{ end }}
+            {{ range $index, $tag := .Params.tags }}
+            <a href="{{$.Site.BaseURL}}tags/{{ $tag | urlize }}/">#{{$tag}}</a>&nbsp;
+            {{end}}
+            </span>
+            {{ end }}
 
     </section>
 
