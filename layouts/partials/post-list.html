@@ -13,7 +13,11 @@
     {{end}}
 
     <div class="post-card-content">
+
       <a class="post-card-content-link" href="{{ .Permalink }}">
+
+        <time class="post-full-date-box" datetime="{{.Date.Format "2006-01-02"}}">{{ .Date.Format "2 January 2006" | safeHTML }}</time>
+
           <header class="post-card-header">
 
               {{if .Params.categories }}<span class="post-card-categories">{{ range $index, $categories := .Params.categories }}
