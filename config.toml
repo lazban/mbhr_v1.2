@@ -70,10 +70,15 @@ paginate        = 6
   url = "/categories/fotografi/"
   weight = 300
 
-  [[menu.main]]
-    name = "Diario"
-    url = "/categories/diario/"
-    weight = 200
+[[menu.main]]
+  name = "Film-tv"
+  url = "/categories/film/"
+  weight = 300
+
+[[menu.main]]
+  name = "Diario"
+  url = "/categories/diario/"
+  weight = 200
 
 [taxonomies]
   tag = "tags"

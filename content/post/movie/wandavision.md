@@ -15,7 +15,7 @@ Elisabeth Olsen è Wanda, eroina dei fumetti Marvel e personaggio secondario nel
 
 ## Si, trollami così
 
-E' venerdi 5 marzo, il giorno dell'ultima puntata di Wandavision. Ma cominciamo da ieri, giovedi 4 marzo, terza serata del Festival di Sanremo.
+E' venerdi 5 marzo, il giorno dell'ultima puntata di Wandavision. Ma cominciamo dall'altro ieri, mercoledi 3 marzo, seconda serata del Festival di Sanremo.
 Fiorello entra in studio ballando e roteando. L'attenzione degli spettatori è tutta per lui.
 Peccato, perché la cosa interessante è sullo sfondo.
 
@@ -26,7 +26,7 @@ Chi lo ha messo lì? Forse un operaio annoiato. Ma è più probabile che sia una
 
 In altre parole: la Rai ci ha trollato.
 
-{{< figure src="/static/images/film/wandavision_sanremo.jpg" caption="⬆︎ Rai1, Festival di Sanremo, 4 marzo 2021</br> ">}}
+{{< figure src="/static/images/film/wandavision_sanremo.jpg" caption="⬆︎ Rai1, Festival di Sanremo, 3 marzo 2021</br> ">}}
 
 Visto che questa è una recensione per non nerd, due parole sul termine "trollare". Da troll, che nei tempi moderni è diventato il provocatore, il depistatore irritante che popola i social con lo scopo di far arrabbiare i poveri utenti.
 
@@ -117,3 +117,7 @@ creata da Jac Schaeffer, diretta da Matt Shakman, con la musica di Christophe Be
 Con Elisabeth Olsen (Wanda), Paul Bettany (Vision), Kathryn Hahn (Agnes), Kat Dennings (Darcy)
 
 Disponibile su <a target="blank" href="https://www.disneyplus.com/it-it/series/wandavision/4SrN28ZjDLwH">Disney+</a>
+
+
+- - -
+se ti stai chiedendo perché le immagini sono "brutte" potresti leggere la filosofia di questo sito -> <a target="blank" href="/2018/01/about/">About</a>
