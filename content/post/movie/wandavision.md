@@ -24,7 +24,7 @@ Ma la cosa interessante è sullo sfondo.
 In periodo di Covid il festival non può ospitare pubblico in sala. Per sentirsi meno soli, il cast di Sanremo ha popolato di palloncini le poltrone della platea. I palloncini sono tutti diversi ma uno è più diverso degli altri.
 (un link tra i tanti per documentazione da <a target="blank" href="https://www.iltempo.it/spettacoli-tv/2021/03/03/news/sanremo-palloncino-forma-pene-platea-fiorello-amadeus-clamoroso-battute-social-seconda-serata-festival-3-marzo-26412899/">Il Tempo</a>)
 
-{{< figure src="/static/images/film/wandavision_sanremo.jpg" caption="⬆︎ Rai1, Festival di Sanremo, 3 marzo 2021</br> ">}}
+{{< figure src="/images/film/wandavision_sanremo.jpg" caption="⬆︎ Rai1, Festival di Sanremo, 3 marzo 2021</br> ">}}
 
 Chi lo ha messo lì? Forse un operaio annoiato. Ma è più probabile che sia una scelta consapevole dell'organizzazione che ormai sa benissimo che centinaia di spettatori avrebbero passato in rassegna ogni fotogramma e che Twitter si sarebbe riempito in un attimo.
 
@@ -94,7 +94,7 @@ Al di là delle citazioni, la trama di _Wandavision_ è matura, affronta il dolo
 
 Dal punto di vista visivo c'è una qualità da lungometraggio. La fotografia è ai massimi livelli e vince anche la sfida di ricreare ambientazioni anni '50, '60, '80 ecc... E non è solo un tema di ambientazioni ma anche di movimenti di camera e di angoli di ripresa... tutto ricreato con una cura maniacale e denso di amore verso una televisione che non c'è più e non svolge più il ruolo che Wanda e tutti noi gli avevamo riconosciuto.
 
-{{< figure src="/static/images/film/wandavision_tv.jpg" caption="⬆︎ Wandavision (2021). Wanda e Pietro bambini guardano _The Dick Van Dyke Show_ in televisione con i genitori</br> ">}}
+{{< figure src="/images/film/wandavision_tv.jpg" caption="⬆︎ Wandavision (2021). Wanda e Pietro bambini guardano _The Dick Van Dyke Show_ in televisione con i genitori</br> ">}}
 
 Le interpretazioni sono ai vertici qualitativi mai raggiunti in tv. La Olsen e Bettany sono superlativi nella chimica fra loro ma anche nelle singole interpretazioni, sfaccettate e dense.
 
@@ -107,7 +107,7 @@ Mi ricorderò per molto tempo di _Wandavision_. Per le emozioni che mi ha dato, 
 
 E' stato bello.
 
-{{< figure src="/static/images/film/wandavision_elisabeth.jpg" caption="⬆︎ Wandavision (2021). Elisabeth Olsen interpreta Wanda in _Wandavision_ qui in una citazione di _Modern Family_</br> ">}}
+{{< figure src="/images/film/wandavision_elisabeth.jpg" caption="⬆︎ Wandavision (2021). Elisabeth Olsen interpreta Wanda in _Wandavision_ qui in una citazione di _Modern Family_</br> ">}}
 
 
 - - -
