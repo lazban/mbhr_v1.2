@@ -2,7 +2,7 @@
 title: "Minari"
 slug: "minari"
 description: "storie di integrazione, famiglie, bambini, nonni ecc. ecc."
-date: 2021-04-26T23:00:00+01:00
+date: 2021-04-26T22:00:00+01:00
 draft: false
 image: /images/film/minari.jpg
 categories: ["film-tv"]
