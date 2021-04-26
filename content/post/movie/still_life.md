@@ -29,6 +29,7 @@ La faccia piena d’espressività del compassato John May è l’architrave del 
 _Still life_ merita di essere visto pronti a commuoversi sul senso vero del film che tenta di parlare del senso della vita. La messa in scena, le inquadrature e la grande prova di Eddie Marsan ci mostrano la potenza del cinema
 
 - - -
+
 **Still Life**  scritto e diretto da Uberto Pasolini (Gran Bretagna, 2013)  con Eddie Marsan, Joanne Froggatt;
  direttore della fotografia, Stefano Falivene.
 
