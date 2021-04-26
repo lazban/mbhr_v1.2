@@ -5,7 +5,7 @@ description: "il film di Uberto Pasolini è una rivelazione"
 date: 2013-09-04T23:02:17+01:00
 draft: false
 image: /images/film/still-life.png
-categories: ["film/tv"]
+categories: ["film-tv"]
 author: alessandro
 ---
 

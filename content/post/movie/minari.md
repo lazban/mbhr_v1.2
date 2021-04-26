@@ -5,7 +5,7 @@ description: "il film di Uberto Pasolini è una rivelazione"
 date: 2021-04-26T23:00:00+01:00
 draft: true
 image: /images/film/minari.jpg
-categories: ["film/tv"]
+categories: ["film-tv"]
 author: alessandro
 ---
 

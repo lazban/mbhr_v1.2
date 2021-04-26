@@ -5,7 +5,7 @@ description: "Wandavision è una piccola serie-tv capolavoro. Anche per i non ne
 date: 2021-03-05T18:00:00+01:00
 draft: false
 image: /images/film/wandavision_cover.jpg
-categories: ["film/tv"]
+categories: ["film-tv"]
 author: alessandro
 ---
 
