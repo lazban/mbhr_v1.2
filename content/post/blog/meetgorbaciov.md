@@ -4,7 +4,7 @@ description: "il nuovo film di Herzog è una intervista a Michail Sergevic Gorba
 date: 2016-10-06T6:00:00+02:00
 draft: false
 image: /images/blogimg/savethechildren_cover.png
-categories: ["film"]
+categories: ["film/tv"]
 ---
 
 il nuovo film di Werner Herzog _Meet Gorbachev_ è a Ferrara al Festival di Internazionale.
