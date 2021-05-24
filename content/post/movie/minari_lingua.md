@@ -1,6 +1,6 @@
 ---
 title: "Minari - quando il doppiaggio cambia il senso delle scene"
-slug: "minari"
+slug: "minari-doppiaggio"
 description: "Minari è l'ennesimo esempio dell'importanza di vedere i film in lingua originale"
 date: 2021-05-24T06:00:00+01:00
 draft: false
@@ -30,7 +30,7 @@ La versione italiana è diventata sessista e si è persa una sfumatura del conce
 
 La nonna non parla una parola di inglese. Questo si capisce subito guardando il film. Qui isolo una sequenza per tutte.
 
-## vi piace "grandma"
+## vi piace "grandma"?
 
 In questa sequenza i due ragazzi parlano in inglese in modo da non essere capiti dalla nonna che però riconosce la parola "grandma" e pensa che stiano parlando bene di lei. Tutto questo, nella versione italiana, è uno scambio di battute senza spessore.
 
